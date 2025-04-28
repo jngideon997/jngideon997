@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jngideon997
 - 👀 I’m interested in data analytics and evaluation
-- 🌱 I’m currently learning Pyton
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on flattening and data cleaning scripts
 - 📫 How to reach me jazmyn.gideon@state.co.us
 - 😄 Pronouns: she/her/hers
